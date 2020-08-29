@@ -102,6 +102,7 @@
     // 方式一：
     this.$store.getters.名称
 
+    // 方式二：
     // 按需导入mapGetters
     import { mapGetters } from 'vuex'
     // 在计算属性当中展开
