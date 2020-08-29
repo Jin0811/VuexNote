@@ -55,6 +55,5 @@ export default new Vuex.Store({
       return `当前最新的数量是：${state.count}`
     }
   },
-  modules: {
-  }
+  modules: {}
 })
