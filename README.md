@@ -46,6 +46,7 @@ new Vue({
     store
 });
 ```
+<br>
 
 ## 5 vuex的核心概念
 
